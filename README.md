@@ -1,3 +1,6 @@
+# Amazon Clone (HTML & CSS)
+## Introduction
+
 Amazon Clone (HTML & CSS)
 Introduction
 This is a simple Amazon clone project created using HTML and CSS. The goal of this project is to replicate the layout of the Amazon homepage with a responsive design, including a navigation bar, featured images, and various product categories.
