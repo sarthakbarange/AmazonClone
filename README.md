@@ -45,12 +45,13 @@ To set up and run this project on your local machine, follow these steps:
    - Alternatively, open it in a code editor like VS Code and use the Live Server extension.
 
 ## Project Structure
+```graphaql
 AmazonClone/.
 ├── index.html        # Main HTML file.
 ├── styles.css        # CSS file for styling.
 ├── images/           # Images used in the project.
 └── README.md         # Project documentation.
-
+```
 ## Screenshot
 Here’s a screenshot of the Amazon Clone:
 ![image](https://github.com/user-attachments/assets/2ff4ad88-1981-45bb-8709-72066ce12df9)
