@@ -41,11 +41,11 @@ You can simply double-click the index.html file.
 Alternatively, open it in a code editor like VS Code and use the Live Server extension.
 
 ## Project Structure
-AmazonClone/
-├── index.html        # Main HTML file
-├── styles.css        # CSS file for styling
-├── images/           # Images used in the project
-└── README.md         # Project documentation
+AmazonClone/.
+├── index.html        # Main HTML file.
+├── styles.css        # CSS file for styling.
+├── images/           # Images used in the project.
+└── README.md         # Project documentation.
 
 ## Screenshot
 Here’s a screenshot of the Amazon Clone:
